@@ -1,0 +1,20 @@
+C:\temp\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe.config
+C:\temp\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe
+C:\temp\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.pdb
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\CSharpProject.csproj.CoreCompileInputs.cache
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.exe
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.pdb
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\CSharpProject.csprojAssemblyReference.cache
+C:\Users\seeme\Downloads\MonsterMovement\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe.config
+C:\Users\seeme\Downloads\MonsterMovement\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe
+C:\Users\seeme\Downloads\MonsterMovement\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.pdb
+C:\Users\seeme\Downloads\MonsterMovement\MonsterMovement\MonsterMovement\obj\Debug\CSharpProject.csprojAssemblyReference.cache
+C:\Users\seeme\Downloads\MonsterMovement\MonsterMovement\MonsterMovement\obj\Debug\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\seeme\Downloads\MonsterMovement\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.exe
+C:\Users\seeme\Downloads\MonsterMovement\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.pdb
+C:\Users\Owner\Desktop\Python files\MonsterMovement\bin\Debug\ClocktowersCurse.exe.config
+C:\Users\Owner\Desktop\Python files\MonsterMovement\bin\Debug\ClocktowersCurse.exe
+C:\Users\Owner\Desktop\Python files\MonsterMovement\bin\Debug\ClocktowersCurse.pdb
+C:\Users\Owner\Desktop\Python files\MonsterMovement\obj\Debug\CSharpProject.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Python files\MonsterMovement\obj\Debug\ClocktowersCurse.exe
+C:\Users\Owner\Desktop\Python files\MonsterMovement\obj\Debug\ClocktowersCurse.pdb
